@@ -17,13 +17,13 @@ The project was developed as a multidisciplinary application, combining web, bac
 
 ## 🚀 Features
 
-- 🎲 Domino-based gameplay focused on inorganic chemistry
-- 🧪 Questions and concepts related to inorganic chemical functions
-- 🌐 Web application built with React and Next.js
-- ⚙️ Backend services developed with Node.js and Express
-- 📱 Cross-platform development with React Native
-- 🗄️ Backend and database integration
-- 👥 Developed collaboratively as an academic project
+- Domino-based gameplay focused on inorganic chemistry
+- Questions and concepts related to inorganic chemical functions
+- Web application built with React and Next.js
+- Backend services developed with Node.js and Express
+- Cross-platform development with React Native
+- Backend and database integration
+- Developed collaboratively as an academic project
 
 ## 🧠 What I Learned
 
