@@ -88,3 +88,5 @@ Make sure to configure the environment variables in the .env file before running
 Developed as part of the Computer Science program at Instituto Mauá de Tecnologia.
 
 The main goal of the project was to combine education, game development and software engineering into an interactive learning experience.
+
+**This project was developed as an academic project and is no longer actively maintained.**
