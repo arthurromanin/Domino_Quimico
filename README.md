@@ -56,7 +56,7 @@ Projeto_Integrador/
 │   ├── .env.example
 │   └── package.json
 ```
-# 🛠️ Running the Project
+## 🛠️ Running the Project
 
 ### Frontend (Next.js)
 ```bash
